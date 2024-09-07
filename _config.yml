@@ -28,7 +28,7 @@ author:
   location         : "Changsha Hunan"
   employer         : "Central South University"
   uri              : # URL
-  email            : "yunfeichen@csu.edu.cn" 
+  email            : &email "yunfeichen@csu.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
