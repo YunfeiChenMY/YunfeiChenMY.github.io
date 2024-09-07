@@ -50,5 +50,6 @@ Email: yunfeichen@csu.edu.cn
 
 [4]	湘雅医院(皮肤病)互联网医院远程问诊平台，长沙市科技重大专项（ KH2202005 ），参与。
 
+**I welcome discussions and collaborative research with peers in the field.**
 
 ![Author's WeChat](https://yunfeichenmy.github.io/yunfeichen.github.io//images/wechat.jpg)
