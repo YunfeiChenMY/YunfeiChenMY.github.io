@@ -13,11 +13,11 @@ I am currently a PhD student (class of 2021) in Computer Science and Technology 
 
 [1]	**Yunfei Chen**, Jun Long, Zhan Yang, et al. Supervised Semantic-Embedded Hashing for Multimedia Retrieval[J]. Knowledge-Based Systems, 2024: 112023. 中科院一区 TOP
 
-[2]	Jun Long, **Yunfei Chen**, Zhan Yang. Manifold based Semantic Similarity Reconstructing Hashing. CCF BigData 2024. Accept
+[2]	**Yunfei Chen**, Jun Long, Zhan Yang, et al. Unsupervised Joint-Semantics Autoencoder Hashing for Multimedia Retrieval. ICONIP 2023. https://doi.org/10.1007/978-981-99-8073-4_25. CCF-C
 
-[3]	**Yunfei Chen**, Jun Long, Zhan Yang, et al. Unsupervised Joint-Semantics Autoencoder Hashing for Multimedia Retrieval. ICONIP 2023. https://doi.org/10.1007/978-981-99-8073-4_25. CCF-C
+[3] **Yunfei Chen**, Hongyu Lin, Jun Long, Zhan Yang. Hyper-graph Based Cross-modal Retrieval Hashing with Correlation and Robust Similarity Guide. ICONIP 2024.Accept CCF-C
 
-[4] **Yunfei Chen**, Hongyu Lin, Jun Long, Zhan Yang. Hyper-graph Based Cross-modal Retrieval Hashing with Correlation and Robust Similarity Guide. ICONIP 2024.Accept CCF-C
+[4]	Jun Long, **Yunfei Chen**, Zhan Yang. Manifold based Semantic Similarity Reconstructing Hashing. CCF BigData 2024. Accept
 
 [5]	**Yunfei Chen**, Yitian Long, Zhan Yang, Jun Long. Unsupervised Adaptive Hypergraph Correlation Hashing for Multimedia Retrieval. IEEE Transactions on Circuits and Systems for Video Technology. Under Review
 
