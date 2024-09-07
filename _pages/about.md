@@ -49,4 +49,4 @@ I am currently a PhD student (class of 2021) in Computer Science and Technology 
 [4]	湘雅医院(皮肤病)互联网医院远程问诊平台，长沙市科技重大专项（ KH2202005 ），参与。
 
 
-![Author's WeChat](/images/wechat.jpg)
+![Author's WeChat](https://yunfeichenmy.github.io/yunfeichen.github.io//images/wechat.jpg)
