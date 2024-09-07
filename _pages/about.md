@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a PhD student (class of 2021) in Computer Science and Technology at Central South University, with a long-term focus on cross-modal hashing retrieval and multi-agent systems. I have published multiple papers in SCI and CCF journals and participated in several National Key R&D projects. My PhD advisor is Professor Long Jun, Director of the Big Data Institute at Central South University (https://faculty.csu.edu.cn/longjun/zh_CN/index.htm). I also serve as a long-term reviewer for top-tier journals, including KBS, NN, IPM, and IEEE Transactions on Multimedia.
+I am currently a PhD student (class of 2021) in Computer Science and Technology at **Central South University**, with a long-term focus on **cross-modal hashing retrieval and multi-agent systems**. I have published multiple papers in SCI and CCF journals and participated in several National Key R&D projects. My PhD advisor is Professor **Long Jun, Director of the Big Data Institute at Central South University** (https://faculty.csu.edu.cn/longjun/zh_CN/index.htm). I also serve as a long-term reviewer for top-tier journals, including **KBS, NN, IPM, and IEEE Transactions on Multimedia**.
 
 Email: yunfeichen@csu.edu.cn
 
