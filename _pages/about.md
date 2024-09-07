@@ -9,6 +9,8 @@ redirect_from:
 
 I am currently a PhD student (class of 2021) in Computer Science and Technology at Central South University, with a long-term focus on cross-modal hashing retrieval and multi-agent systems. I have published multiple papers in SCI and CCF journals and participated in several National Key R&D projects. My PhD advisor is Professor Long Jun, Director of the Big Data Institute at Central South University (https://faculty.csu.edu.cn/longjun/zh_CN/index.htm). I also serve as a long-term reviewer for top-tier journals, including KBS, NN, IPM, and IEEE Transactions on Multimedia.
 
+Email: yunfeichen@csu.edu.cn
+
 **1）Journal Articles / Conference Papers:**
 
 [1]	**Yunfei Chen**, Jun Long, Zhan Yang, et al. Supervised Semantic-Embedded Hashing for Multimedia Retrieval[J]. Knowledge-Based Systems, 2024: 112023. 中科院一区 TOP
