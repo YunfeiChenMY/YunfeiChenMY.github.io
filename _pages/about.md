@@ -13,21 +13,33 @@ I am currently a PhD student (class of 2021) in Computer Science and Technology 
 
 **1）Journal Articles / Conference Papers:**
 
-[1]	**Yunfei Chen**, Jun Long, Zhan Yang, et al. Supervised Semantic-Embedded Hashing for Multimedia Retrieval[J]. Knowledge-Based Systems, 2024: 112023. 中科院一区 TOP
+[1]	**Yunfei Chen**, Long Y, Yang Z, Long J*. Unsupervised Adaptive Hypergraph Correlation Hashing for multimedia retrieval[J]. Information Processing & Management, 2025, 62(2): 103958. (SCI, JCR Q1, 中科院1区 Top, IF=8.6）
 
-[2]	**Yunfei Chen**, Jun Long, Zhan Yang, et al. Unsupervised Joint-Semantics Autoencoder Hashing for Multimedia Retrieval. ICONIP 2023. https://doi.org/10.1007/978-981-99-8073-4_25. CCF-C
+[2]	**Yunfei Chen**, Long Y, Yang Z, Long J*. Parameter Adaptive Contrastive Hashing for Multimedia Retrieval[J]. Neural Networks, 2025: 106923. (SCI, JCR Q1, 中科院1区 Top, IF=7.9）
 
-[3] **Yunfei Chen**, Hongyu Lin, Jun Long, Zhan Yang. Hyper-graph Based Cross-modal Retrieval Hashing with Correlation and Robust Similarity Guide. ICONIP 2024.Accept CCF-C
+[3]	**Yunfei Chen**, Long J*, Guo L, et al. Supervised Semantic-Embedded Hashing for Multimedia Retrieval[J]. Knowledge-Based Systems, 2024: 112023.（SCI, JCR Q1, 中科院1区 Top, IF=8.8）
 
-[4]	Jun Long, **Yunfei Chen**, Zhan Yang. Manifold based Semantic Similarity Reconstructing Hashing. CCF BigData 2024. Accept
+[4]	**Yunfei Chen**, Hong Y, Yang Z, Long J*. PFedLAH: Personalized Federated Learning with Lookahead for Adaptive Cross-modal Hashing [J]. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2025, 1-1. doi: 10.1109/TCSVT.2025.3550794. (SCI, JCR Q1, 中科院1区 Top, IF=8.3）
 
-[5]	**Yunfei Chen**, Yitian Long, Zhan Yang, Jun Long. Unsupervised Adaptive Hypergraph Correlation Hashing for Multimedia Retrieval. IEEE Transactions on Circuits and Systems for Video Technology. Under Review
+[5]	**Yunfei Chen**, Xia R, Yang Z, Long J*. Radial Adaptive Node Embedding Hashing for Cross-modal Retrieval[J]. Knowledge-Based Systems, 2025. 113522.（SCI, JCR Q1, 中科院1区 Top, IF=8.8）
 
-[6] Jun Long, Junkun Hong, Zidong Wang, Tingxuan Chen, **Yunfei Chen**, Yang Liu. SPHASE: Multi-Modal and Multi-Branch Surgical Phase Segmentation Framework based on Temporal Convolutional Network[C]//2023 IEEE International Conference on Bioinformatics and Biomedicine (BIBM). IEEE, 2023: 586-593. CCF-B
+[6]	**Yunfei Chen**, Long Y, Yang Z, Long J*. Correlation Embedding Semantic-Enhanced Hashing for Multimedia Retrieval[J]. Image and Vision Computing (IVC), 2025: 105421. (SCI, JCR Q1, IF=4.2)
 
-[7] 龙军，邓茜尹，**陈云飞**，杨展*. 基于图卷积的无监督跨模态哈希检索算法[J]. 计算机工程与设计，已录用, 2023 (CCF-C)
+[7]	**Yunfei Chen**, Long Y, Yang Z, Long J*. Unsupervised Random Walk Manifold Contrastive Hashing for Multimedia Retrieval[J]. Complex & Intelligent Systems (CIS), 2025: 193. (SCI, JCR Q1, IF=5.2)
 
-[8] Liu Yang, Kaiting Zhang, Yinan Li, **Yunfei Chen**, Jun Long, Zhan Yang. S3ACH: Semi-Supervised Semantic Adaptive Cross-modal Hashing. International Conference on Neural Information Processing (ICONIP) (2023)(CCF-C, Full)
+[8]	**Yunfei Chen**, Yang Z, Long J*. Unsupervised Hierarchical Dynamic Similarity Hashing for Multimedia Retrieval [C]. ICASSP 2025-2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2025, 1-5. (CCF-B, Oral)
+
+[9]	**Yunfei Chen**, Yang Z, Long J*. DMDH: Decentralized Multi-agent Distributed Hashing for Multimedia Retrieval[C]. IEEE International Conference on Multimedia & Expo (ICME). IEEE, 2025, Accept.  (CCF-B)
+
+[10]	**Yunfei Chen**, Long J*, Li Y, et al. Unsupervised Joint-Semantics Autoencoder Hashing for Multimedia Retrieval[C]. International Conference on Neural Information Processing. Singapore: Springer Nature Singapore, 2023: 318-330. (CCF-C)
+
+[11]	**Yunfei Chen**, Lin H, Long J*, et al. Unsupervised Robust Hypergraph Correlation Hashing for Multimedia Retrieval[C]. International Conference on Neural Information Processing. Singapore: Springer Nature Singapore, 2024. Accept. (CCF-C)
+
+[12] Jun Long, Junkun Hong, Zidong Wang, Tingxuan Chen, **Yunfei Chen**, Yang Liu. SPHASE: Multi-Modal and Multi-Branch Surgical Phase Segmentation Framework based on Temporal Convolutional Network[C]//2023 IEEE International Conference on Bioinformatics and Biomedicine (BIBM). IEEE, 2023: 586-593. CCF-B
+
+[13] 龙军，邓茜尹，**陈云飞**，杨展*. 基于图卷积的无监督跨模态哈希检索算法[J]. 计算机工程与设计，已录用, 2023 (CCF-C)
+
+[14] Liu Yang, Kaiting Zhang, Yinan Li, **Yunfei Chen**, Jun Long, Zhan Yang. S3ACH: Semi-Supervised Semantic Adaptive Cross-modal Hashing. International Conference on Neural Information Processing (ICONIP) (2023)(CCF-C, Full)
 
 
 **2）Patents:**
